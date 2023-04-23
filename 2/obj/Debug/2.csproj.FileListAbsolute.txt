@@ -1,0 +1,6 @@
+D:\DomashnaRabota\ClassDefinition\2\bin\Debug\2.exe.config
+D:\DomashnaRabota\ClassDefinition\2\bin\Debug\2.exe
+D:\DomashnaRabota\ClassDefinition\2\bin\Debug\2.pdb
+D:\DomashnaRabota\ClassDefinition\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\ClassDefinition\2\obj\Debug\2.exe
+D:\DomashnaRabota\ClassDefinition\2\obj\Debug\2.pdb

@@ -1,0 +1,7 @@
+D:\DomashnaRabota\ClassDefinition\ClassDefinition\bin\Debug\ClassDefinition.exe.config
+D:\DomashnaRabota\ClassDefinition\ClassDefinition\bin\Debug\ClassDefinition.exe
+D:\DomashnaRabota\ClassDefinition\ClassDefinition\bin\Debug\ClassDefinition.pdb
+D:\DomashnaRabota\ClassDefinition\ClassDefinition\obj\Debug\ClassDefinition.csproj.AssemblyReference.cache
+D:\DomashnaRabota\ClassDefinition\ClassDefinition\obj\Debug\ClassDefinition.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\ClassDefinition\ClassDefinition\obj\Debug\ClassDefinition.exe
+D:\DomashnaRabota\ClassDefinition\ClassDefinition\obj\Debug\ClassDefinition.pdb
